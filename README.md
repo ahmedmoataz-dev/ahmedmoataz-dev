@@ -1,55 +1,109 @@
-## Hi, I'm Ahmed Moataz 👋
-Android Native Developer 🚀 | Software Engineer
+<!-- HEADER -->
+## 👋 Hi there, I'm Ahmed Moataz
 
-[![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+### 🚀 Android Native Developer | Software Engineer | Freelancer
 
-&nbsp;
-
-<!-- About Me -->
-**About Me:**
-
-<img width="55%" align="right" alt="Android Dev" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨‍💻 I'm currently working as an Android Native Developer
-- 📱 Building Android apps using Kotlin & Java
-- 🌱 Currently learning Advanced Android Architecture (MVVM, Clean Architecture)
-- 💡 Passionate about mobile app development and system design
-- ⚡ Always improving my problem-solving skills
-- 📫 How to reach me: YOUR_EMAIL@gmail.com
+📍 Computer & Systems Engineering Student @ Faculty of Engineering, Zagazig University  
+💼 Freelance Android Developer specialized in modern Android development
 
 ---
 
-## 🛠 Languages and Tools
+<!-- CONNECT -->
+## 🌐 Connect with me
 
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-moataz725?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/ahmedmoataz-dev)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmedmoataz725@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_a7med_moataz)
 
 ---
 
+<!-- ABOUT -->
+## 👨‍💻 About Me
+
+- 🎓 Computer & Systems Engineering student @ Zagazig University
+- 📱 Android Native Developer using Kotlin & Jetpack Compose
+- 💼 Working as a Freelance Mobile App Developer
+- 🚀 Passionate about building clean, scalable, and performant Android apps
+- 🧠 Strong foundation in Computer Science and Software Engineering
+- ⚡ Always learning new technologies and improving problem-solving skills
+
+---
+
+<!-- SKILLS -->
+## 🛠 Tech Stack
+
+### 📱 Android Development
+- Kotlin
+- Java
+- Jetpack Compose
+- XML UI
+- MVVM Architecture
+- Clean Architecture
+- Repository Pattern
+- Dependency Injection (Hilt)
+
+### 🌐 Networking
+- Retrofit
+- REST APIs
+- JSON Parsing (Gson / Moshi)
+
+### 🔥 Firebase
+- Authentication
+- Firestore
+- Realtime Database
+- Cloud Storage
+
+### 🗄️ Local Database
+- Room Database
+- SQLite
+
+### ⚙️ Asynchronous Programming
+- Coroutines
+- Flow
+
+### 💻 Programming Languages
+- C
+- C++
+- Java
+- Python
+
+### 🧰 Tools & Practices
+- Git & GitHub
+- Android Studio
+- Figma (UI Understanding)
+- Postman
+- Data Structures & Algorithms
+
+---
+
+<!-- PROJECTS -->
+## 🚀 Featured Projects
+
+### 📱 Studify
+A productivity Android app for task management and Pomodoro technique.  
+Helps users organize tasks, track focus sessions, and improve productivity using time blocking.  
+Built with Kotlin, Jetpack Compose, MVVM, and Clean Architecture.
+
+---
+
+### 📦 Invex
+An inventory management Android application for organizing and tracking warehouse stock.  
+Designed to manage products, stock flow, and storage operations efficiently.  
+Built using Kotlin, MVVM, and modern Android architecture principles.
+
+---
+
+<!-- STATS -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmoataz-dev&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- QUOTE -->
+## 💡 Quote
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2" />
-  </a>
-</p>
+> “First solve the problem, then write the code.”
