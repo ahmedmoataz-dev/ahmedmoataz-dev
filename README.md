@@ -59,9 +59,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/ahmedmoataz-dev/Studify">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmoataz-dev&repo=Studify" />
-  </a>
   <a href="https://github.com/ahmedmoataz-dev/Invex">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmoataz-dev&repo=Invex" />
   </a>
